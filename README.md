@@ -20,7 +20,7 @@ After protein structure submission to MERMAID server, the user will have the acc
 </p>
 
 ### Membrane selection
-In the <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab5.png" width="225" /> tab user will have access to already known membrane compostions. For example the user can chose the membrane compostion from any of the following-- 1] Plasma Membrane - human erythrocytes; 2] Plasma membrane - Rat Liver; 3] Endoplasmic Reticulum; 4] Golgi; 5] Lysosome; 6] Nuclear Membrane; 7] Mithocondria; 8] Neurons; 9] Myelin.
+In the <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab5.png" width="120" /> tab user will have access to already known membrane compostions. For example the user can chose the membrane compostion from any of the following-- 1] Plasma Membrane - human erythrocytes; 2] Plasma membrane - Rat Liver; 3] Endoplasmic Reticulum; 4] Golgi; 5] Lysosome; 6] Nuclear Membrane; 7] Mithocondria; 8] Neurons; 9] Myelin.
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter4.png" width="225" />
 </p>
