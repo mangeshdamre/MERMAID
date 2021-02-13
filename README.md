@@ -29,3 +29,12 @@ In the <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab6.p
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter5.png" width="225" />
 </p>
+
+### Water selection and Box dimension
+Further user can select the type of water and set the coarse-grained system dimensions.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter6.png" width="225" />
+</p>
+
+### Orientation of protein in the membrane
+For membrane proteins, it is important to insert them properly inside the membrane. The user can have the freedom to align the protein inside the membrane or can keep the protein orientation as it is. Best practice is to check the already aligned membrane protein structure in **<a href="https://opm.phar.umich.edu/" target="_blank">OPM</a>** database and download the aligned structure. Submit the obtained structure from OPM server to the MERMAID server. For more details please check the section **"How to align membrane proteins?"** in **<a href="https://molsim.sci.univr.it/mangesh/questions.html#collapseThirteen" target="_blank">Q&A</a>** page.
