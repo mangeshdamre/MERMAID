@@ -138,4 +138,4 @@ Further the user can follow the steps from point **10 to 13**.
 The user can take a look in video tutorial which demonstrate the use of MERMAID web server.
 
 ### Example
-[Click here to follow MERMAID video tutorials!](https://github.com/mangeshdamre/MERMAID/blob/main/video/mermaid.mp4)
+[Click here to follow MERMAID video tutorials!](https://www.youtube.com/watch?v=hbwI7YnonEY)
