@@ -38,3 +38,10 @@ Further user can select the type of water and set the coarse-grained system dime
 
 ### Orientation of protein in the membrane
 For membrane proteins, it is important to insert them properly inside the membrane. The user can have the freedom to align the protein inside the membrane or can keep the protein orientation as it is. Best practice is to check the already aligned membrane protein structure in **<a href="https://opm.phar.umich.edu/" target="_blank">OPM</a>** database and download the aligned structure. Submit the obtained structure from OPM server to the MERMAID server. For more details please check the section **"How to align membrane proteins?"** in **<a href="https://molsim.sci.univr.it/mangesh/questions.html#collapseThirteen" target="_blank">Q&A</a>** page.
+
+## Coarse-grained molecular dynamics parameters
+In MERMAID web server, Coarse-grained simulation will be performed in four stages namely
+1] Minimization;
+2] Equilibration at constant volume (NVT);
+3] Equilibration at constant pressure (NPT); and
+4] Production.
