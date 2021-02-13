@@ -46,7 +46,7 @@ In MERMAID web server, Coarse-grained simulation will be performed in four stage
 3. Equilibration at constant pressure (NPT); and
 4. Production.
 
-###Set minimization parameters
+### Set minimization parameters
 The user will see the default minimization parameters to perform the minimization of the Coarse-grained system. User can modify the parameters as per the experimental requirments. The molecular dynamics parameters such as 'integrator, tinit, dt, nsteps, init-step, comm-mode, nstcomm, comm-grps' etc. are well explained and the user can get detailed information about parameters in the **<a href="http://manual.gromacs.org/archive/4.6.3/online/mdp_opt.html" target="_blank">Gromacs MDP</a>** page.
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter8.png" width="225" />
