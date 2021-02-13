@@ -128,6 +128,8 @@ The user can search for their completed projects in MERMAID web server by using 
 The user can use the search function to search their project. It will redirect to the respective project where user can check all their simulation jobs.
 Further the user can follow the steps from point **10 to 13**.
 <p float="center">
-  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search1.png" width="225" />
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search1.png" width="500" />
+</p>
+<p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search3.png" width="225" />
 </p>
