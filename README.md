@@ -97,3 +97,37 @@ The user can click on the tab <img src="https://github.com/mangeshdamre/MERMAID/
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter13_1.png" width="225" />
 </p>
+It will redirect the user to the analysis page in which is possible seeing multiple charts. Furthermore, the user can analyze different properties of the coarse-grained system like system stability during minimization of the coarse-grained system. Also, the user can see the analysis performed on production phase for different properties: potential energy, kinetic energy, total energy, the temperature of the system, the pressure of the system, the volume of the system, the density of the system, and enthalpy of the system, etc. All the charts are very interactive in nature. The user can download all the charts.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/chart2.png" width="225" />
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/chart1.png" width="225" />
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/chart3.png" width="225" />
+</p>
+
+## Run MERMAID system on local system
+The main advantage of MERMAID web server is that it not only provide the possibility to run the simulation but also allow the user to download the files to run the coarse-graine simulations on users local system.
+
+### Run MERMAID locally
+The user can download the initial files to run the coarse-grained simulation locally. First, the user need to click on <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab3.png" width="225" /> tab.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/inputs.png" width="225" />
+</p>
+It will download the MERMAID_DIR.tar file. Extract all the content of the tar file in a folder.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search3.png" width="225" />
+</p>
+In the extracted folder, the user will see shell script file MERMAID_simulation_run.sh. The user should open the shell script file and follow the instructions given inside to perform coarsed-grained simulation locally.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/scriptrun.png" width="225" />
+</p>
+
+## Search your simulation
+The user can search for their completed projects in MERMAID web server by using search function.
+
+### Search function
+The user can use the search function to search their project. It will redirect to the respective project where user can check all their simulation jobs.
+Further the user can follow the steps from point **10 to 13**.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search1.png" width="225" />
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search3.png" width="225" />
+</p>
