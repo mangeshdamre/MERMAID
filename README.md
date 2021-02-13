@@ -41,7 +41,7 @@ For membrane proteins, it is important to insert them properly inside the membra
 
 ## Coarse-grained molecular dynamics parameters
 In MERMAID web server, Coarse-grained simulation will be performed in four stages namely
-1] Minimization;
-2] Equilibration at constant volume (NVT);
-3] Equilibration at constant pressure (NPT); and
-4] Production.
+1. Minimization;
+2. Equilibration at constant volume (NVT);
+3. Equilibration at constant pressure (NPT); and
+4. Production.
