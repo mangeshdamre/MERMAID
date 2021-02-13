@@ -24,6 +24,7 @@ In the <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab5.p
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter4.png" width="225" />
 </p>
+
 In the <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab6.png" width="100" /> tab the user can change the concentraion of individual lipid present in the membrane as per experimental requirments.
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter5.png" width="225" />
