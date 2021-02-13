@@ -51,3 +51,25 @@ The user will see the default minimization parameters to perform the minimizatio
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter8.png" width="225" />
 </p>
+
+### Set Equilibration (NVT) parameters
+The user will see the default equilibration parameters (at constant volume) to perform the equilibration of the coarse grained system. The user can modify the parameters as per the experimental requirements.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter9.png" width="225" />
+</p>
+
+### Set Equilibration (NPT) parameters
+The user will see the default equilibration parameters (at constant pressure) to perform the equilibration of the coarse grained system. User can modify the parameters as per the experimental requirements.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter10.png" width="225" />
+</p>
+
+### Set Production parameters
+The user will see the default production parameters to perform the molecular dynamics simulation of the Coarse-grained system. User can modify the parameters as per the experimental requirements.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter11.png" width="225" />
+</p>
+After modifying all the parameters as per experimental requirment user need to submit these parameters by clicking on <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/tab4.png" width="100" /> tab. After submitting the parameters, user will be redirect to the new page displaying Welcome message with the link to bookmark the link to the result page.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/parameter12.png" width="225" />
+</p>
