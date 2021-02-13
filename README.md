@@ -133,3 +133,9 @@ Further the user can follow the steps from point **10 to 13**.
 <p float="center">
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/search3.png" width="225" />
 </p>
+
+## Video Tutorial
+The user can take a look in video tutorial which demonstrate the use of MERMAID web server.
+
+### Example
+[Click here to follow MERMAID video tutorials!](https://github.com/mangeshdamre/MERMAID/blob/main/video/mermaid.mp4)
