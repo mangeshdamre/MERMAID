@@ -6,4 +6,9 @@ This tutorial introduces Coarse-grained simulation of membrane protein in presen
 ## System preparation
 
 ### Submit membrane protein structure
-The prepation of Martini coarse-grained system is very easy with the help of MERMAID web server. User should write the project name in the given area which will be used in future to search the finished CGMD simulation. User have three possibilities to submit protein structure. The users can either upload their own membrane protein structure or can write the PDB ID in the given area which will retrive the protein structure either from **<a href="https://www.rcsb.org/structure/4UC1" target="_blank">RCSB</a>**  database or from **<a https://opm.phar.umich.edu/proteins/2750" target="_blank">OPM</a>**  database to the MERMAID server. On submission of protein structure to MERMAID, user will be redirect to molecular dynamics parameter page.
+The prepation of Martini coarse-grained system is very easy with the help of MERMAID web server. User should write the project name in the given area which will be used in future to search the finished CGMD simulation. User have three possibilities to submit protein structure. The users can either upload their own membrane protein structure or can write the PDB ID in the given area which will retrive the protein structure either from **<a href="https://www.rcsb.org/structure/4UC1" target="_blank">RCSB</a>**  database or from **<a href=https://opm.phar.umich.edu/proteins/2750" target="_blank">OPM</a>**  database to the MERMAID server. On submission of protein structure to MERMAID, user will be redirect to molecular dynamics parameter page.
+<p float="center">
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/uploadpdb1.png" width="225" />
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/uploadpdb2.png" width="225" /> 
+  <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/uploadpdb3.png" width="225" />
+</p>
