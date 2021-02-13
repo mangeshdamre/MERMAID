@@ -12,6 +12,7 @@ The prepation of Martini coarse-grained system is very easy with the help of MER
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/uploadpdb2.png" width="225" /> 
   <img src="https://github.com/mangeshdamre/MERMAID/blob/main/Images/uploadpdb3.png" width="225" />
 </p>
+
 ### Molecular dynamics parameters (mdp)
 After protein structure submission to MERMAID server, the user will have the access to the parameter page. Initially, the user can choose membrane concentration. MERMAID will give two possibilities to the user to select the membrane composition and their concentrations. MERMAID provides two types of Martini Forcefields (martini22 and martini22p).
 <p float="center">
