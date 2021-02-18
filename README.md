@@ -144,7 +144,7 @@ Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W456–W461,
 https://doi.org/10.1093/nar/gkz416
 
 BIBTEX
-```bib
+```bibtex
 @article{damre2019mermaid,
   title={MERMAID: dedicated web server to prepare and run coarse-grained membrane protein dynamics},
   author={Damre, Mangesh and Marchetto, Alessandro and Giorgetti, Alejandro},
