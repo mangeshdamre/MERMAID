@@ -137,3 +137,22 @@ Further the user can follow the steps from point **10 to 13**.
 ## Video Tutorial
 The user can take a look in video tutorial which demonstrate the use of MERMAID web server.
 [Click here to follow MERMAID video tutorials!](https://www.youtube.com/watch?v=hbwI7YnonEY)
+
+### How to cite this work?
+MERMAID: dedicated web server to prepare and run coarse-grained membrane protein dynamics
+Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W456–W461, 
+https://doi.org/10.1093/nar/gkz416
+
+BIBTEX
+`
+@article{damre2019mermaid,
+  title={MERMAID: dedicated web server to prepare and run coarse-grained membrane protein dynamics},
+  author={Damre, Mangesh and Marchetto, Alessandro and Giorgetti, Alejandro},
+  journal={Nucleic acids research},
+  volume={47},
+  number={W1},
+  pages={W456--W461},
+  year={2019},
+  publisher={Oxford University Press}
+}
+`
