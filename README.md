@@ -159,3 +159,7 @@ BIBTEX format:
   publisher={Oxford University Press}
 }
 ```
+**Share**
+- Twitter 
+<a href="https://github.com/mangeshdamre/MERMAID" target="_blank">here</a>**
+<a https://twitter.com/intent/tweet?text=Check%20this%20library%20to%20help%20you%20create%20share%20twitter%20url&url=https://github.com/mangeshdamre/MERMAID</a>
