@@ -161,4 +161,3 @@ BIBTEX format:
 ```
 **Share on Social Media**
 - Twitter <a href="https://twitter.com/intent/tweet?text=MERMAID%20webserver%20Tutorial%20url&url=https://github.com/mangeshdamre/MERMAID">MERMAID</a>
-- Facebook <a href="https://www.facebook.com/dialog/share?redirect_uri=https://github.com/mangeshdamre/MERMAID&display=page&quote=MERMAID%20webserver%20Tutorial%20url">MERMAID</a>
